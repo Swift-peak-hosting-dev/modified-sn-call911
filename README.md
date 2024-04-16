@@ -1,0 +1,1 @@
+This script is not my creation; its original author is Casper. You can find the original post on GitHub at the following link: [Casper - FiveM Integrations](https://github.com/SnailyCAD/fivem-integrations/releases/tag/0.13.1)
